@@ -45,7 +45,7 @@ Content_Generator/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Content_Generator.git
+git clone https://github.com/anousha494305-bit/Content_Generator.git
 ```
 
 ### 2. Move into Project Directory
@@ -123,9 +123,9 @@ google-generativeai
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Anousha Tariq**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/anousha494305-bit
 
 ---
 
