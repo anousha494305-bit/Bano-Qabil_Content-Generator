@@ -114,7 +114,6 @@ google-generativeai
 ## Future Improvements
 
 - Multiple language support
-- Export to PDF
 - Save content history
 - Content templates
 - Dark mode
